@@ -1,0 +1,1740 @@
+--- !!perl/hash:Add
+addr_en: Guangzhou, Guangdong
+addr_zh: 广东省广州市
+city: 广州
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Huizhou, Guangdong
+addr_zh: 广东省惠州市
+city: 惠州
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Shantou, Guangdong
+addr_zh: "广东省汕头市\t"
+city: 汕头
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Zhuhai, Guangdong
+addr_zh: 广东省珠海市
+city: 珠海
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Zhaoqing, Guangdong
+addr_zh: 广东省肇庆市
+city: 肇庆
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Maoming, Guangdong
+addr_zh: 广东省茂名市
+city: 茂名
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Jieyang, Guangdong
+addr_zh: 广东省揭阳市
+city: 揭阳
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Yangjiang, Guangdong
+addr_zh: 广东省阳江市
+city: 阳江
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Shanwei, Guangdong
+addr_zh: 广东省汕尾市
+city: 汕尾
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Dongguan, Guangdong
+addr_zh: 广东省东莞市
+city: 东莞
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Chaozhou, Guangdong
+addr_zh: 广东省潮州市
+city: 潮州
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Yunfu, Guangdong
+addr_zh: 广东省云浮市
+city: 云浮
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Qingyuan, Guangdong
+addr_zh: 广东省清远市
+city: 清远
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Heyuan, Guangdong
+addr_zh: 广东省河源市
+city: 河源
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Zhongshan, Guangdong
+addr_zh: 广东省中山市
+city: 中山
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Jiangmen, Guangdong
+addr_zh: 广东省江门市
+city: 江门
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Zhanjiang, Guangdong
+addr_zh: 广东省湛江市
+city: 湛江
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Foshan, Guangdong
+addr_zh: "广东省佛山市\t"
+city: 佛山
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Shenzhen, Guangdong
+addr_zh: 广东省深圳市
+city: 深圳
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Meizhou, Guangdong
+addr_zh: 广东省梅州市
+city: 梅州
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Shaoguan, Guangdong
+addr_zh: 广东省韶关市
+city: 韶关
+prov: 广东
+--- !!perl/hash:Add
+addr_en: Shanghai
+addr_zh: 上海市
+city: 上海
+prov: 上海
+--- !!perl/hash:Add
+addr_en: Huaian, Jiangsu
+addr_zh: 江苏省淮安市
+city: 淮安
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Nanjing, Jiangsu
+addr_zh: 江苏省南京市
+city: 南京
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Suqian, Jiangsu
+addr_zh: 江苏省宿迁市
+city: 宿迁
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Wuxi, Jiangsu
+addr_zh: 江苏省无锡市
+city: 无锡
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Suzhou, Jiangsu
+addr_zh: 江苏省苏州市
+city: 苏州
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Yangzhou, Jiangsu
+addr_zh: 江苏省扬州市
+city: 扬州
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Xuzhou, Jiangsu
+addr_zh: 江苏省徐州市
+city: 徐州
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Lianyungang, Jiangsu
+addr_zh: 江苏省连云港市
+city: 连云港
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Taizhou, Jiangsu
+addr_zh: 江苏省泰州市
+city: 泰州
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Changzhou, Jiangsu
+addr_zh: 江苏省常州市
+city: 常州
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Yancheng, Jiangsu
+addr_zh: 江苏省盐城市
+city: 盐城
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Nantong, Jiangsu
+addr_zh: 江苏省南通市
+city: 南通
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Zhenjiang, Jiangsu
+addr_zh: 江苏省镇江市
+city: 镇江
+prov: 江苏
+--- !!perl/hash:Add
+addr_en: Hangzhou, Zhejiang
+addr_zh: 浙江省杭州市
+city: 杭州
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Huzhou, Zhejiang
+addr_zh: 浙江省湖州市
+city: 湖州
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Quzhou, Zhejiang
+addr_zh: 浙江省衢州市
+city: 衢州
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Jiaxing, Zhejiang
+addr_zh: 浙江省嘉兴市
+city: 嘉兴
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Shaoxing, Zhejiang
+addr_zh: 浙江省绍兴市
+city: 绍兴
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Wenzhou, Zhejiang
+addr_zh: 浙江省温州市
+city: 温州
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Jinhua, Zhejiang
+addr_zh: 浙江省金华市
+city: 金华
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Zhoushan, Zhejiang
+addr_zh: 浙江省舟山市
+city: 舟山
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Lishui, Zhejiang
+addr_zh: 浙江省丽水市
+city: 丽水
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Taizhou, Zhejiang
+addr_zh: 浙江省台州市
+city: 台州
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Ningbo, Zhejiang
+addr_zh: 浙江省宁波市
+city: 宁波
+prov: 浙江
+--- !!perl/hash:Add
+addr_en: Fuzhou, Fujian
+addr_zh: 福建省福州市
+city: 福州
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Nanping, Fujian
+addr_zh: 福建省南平市
+city: 南平
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Sanming, Fujian
+addr_zh: 福建省三明市
+city: 三明
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Longyan, Fujian
+addr_zh: 福建省龙岩市
+city: 龙岩
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Zhangzhou, Fujian
+addr_zh: 福建省漳州市
+city: 漳州
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Quanzhou, Fujian
+addr_zh: 福建省泉州市
+city: 泉州
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Putian, Fujian
+addr_zh: 福建省莆田市
+city: 莆田
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Ningde, Fujian
+addr_zh: 福建省宁德市
+city: 宁德
+prov: 福建
+--- !!perl/hash:Add
+addr_en: Xiamen, Fujian
+addr_zh: 福建省厦门市
+city: 厦门
+prov: 福建
+--- !!perl/hash:Add
+addr_en: MaErkang, Sichuan
+addr_zh: 四川省阿坝藏族羌族自治州
+city: 阿坝
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Meishan, Sichuan
+addr_zh: "四川省眉山市\t"
+city: 眉山
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Zigong, Sichuan
+addr_zh: 四川省自贡市
+city: 自贡
+prov: 四川
+--- !!perl/hash:Add
+addr_en: YaAn, Sichuan
+addr_zh: 四川省雅安市
+city: 雅安
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Leshan, Sichuan
+addr_zh: 四川省乐山市
+city: 乐山
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Neijiang, Sichuan
+addr_zh: "四川省内江市\t"
+city: 内江
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Yibin, Sichuan
+addr_zh: 四川省宜宾市
+city: 宜宾
+prov: 四川
+--- !!perl/hash:Add
+addr_en: GuangAn, Sichuan
+addr_zh: 四川省广安市
+city: 广安
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Nanchong, Sichuan
+addr_zh: 四川省南充市
+city: 南充
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Mianyang, Sichuan
+addr_zh: 四川省绵阳市
+city: 绵阳
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Suining, Sichuan
+addr_zh: 四川省遂宁市
+city: 遂宁
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Luzhou, Sichuan
+addr_zh: 四川省泸州市
+city: 泸州
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Guangyuan, Sichuan
+addr_zh: 四川省广元市
+city: 广元
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Deyang, Sichuan
+addr_zh: 四川省德阳市
+city: 德阳
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Bazhong, Sichuan
+addr_zh: 四川省巴中市
+city: 巴中
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Panzhihua, Sichuan
+addr_zh: 四川省攀枝花市
+city: 攀枝花
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Chengdu, Sichuan
+addr_zh: "四川省成都市\t"
+city: 成都
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Ziyang, Sichuan
+addr_zh: "四川省资阳市\t"
+city: 资阳
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Xichang, Sichuan
+addr_zh: 四川省凉山彝族自治州
+city: 凉山
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Kangding, Sichuan
+addr_zh: 四川省甘孜藏族自治州
+city: 甘孜
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Dazhou, Sichuan
+addr_zh: 四川省达州市
+city: 达州
+prov: 四川
+--- !!perl/hash:Add
+addr_en: Jingzhou, Hubei
+addr_zh: 湖北省荆州市
+city: 荆州
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Enshi, Hubei
+addr_zh: 湖北省恩施土家族苗族自治州
+city: 恩施
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Yichang, Hubei
+addr_zh: 湖北省宜昌市
+city: 宜昌
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Xianning, Hubei
+addr_zh: 湖北省咸宁市
+city: 咸宁
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Huangshi, Hubei
+addr_zh: 湖北省黄石市
+city: 黄石
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Huanggang, Hubei
+addr_zh: 湖北省黄冈市
+city: 黄冈
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Xiaogan, Hubei
+addr_zh: 湖北省孝感市
+city: 孝感
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Ezhou, Hubei
+addr_zh: 湖北省鄂州市
+city: 鄂州
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Wuhan, Hubei
+addr_zh: 湖北省武汉市
+city: 武汉
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 江汉
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Jingmen, Hubei
+addr_zh: 湖北省荆门市
+city: 荆门
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Xiangfan, Hubei
+addr_zh: "湖北省襄樊市\t"
+city: 襄樊
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Shiyan, Hubei
+addr_zh: 湖北省十堰市
+city: 十堰
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Xiantao, Hubei
+addr_zh: 湖北省仙桃市
+city: 仙桃
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Suizhou, Hubei
+addr_zh: 湖北省随州市
+city: 随州
+prov: 湖北
+--- !!perl/hash:Add
+addr_en: Zhuzhou, Hunan
+addr_zh: 湖南省株洲市
+city: 株洲
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Changsha, Hunan
+addr_zh: "湖南省长沙市\t"
+city: 长沙
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Chenzhou, Hunan
+addr_zh: 湖南省郴州市
+city: 郴州
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Yiyang, Hunan
+addr_zh: 湖南省益阳市
+city: 益阳
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Shaoyang, Hunan
+addr_zh: 湖南省邵阳市
+city: 邵阳
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 吉首
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Yongzhou, Hunan
+addr_zh: 湖南省永州市
+city: 永州
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Huaihua, Hunan
+addr_zh: 湖南省怀化市
+city: 怀化
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Zhangjiajie, Hunan
+addr_zh: 湖南省张家界市
+city: 张家界
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Yueyang, Hunan
+addr_zh: 湖南省岳阳市
+city: 岳阳
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Loudi, Hunan
+addr_zh: 湖南省娄底市
+city: 娄底
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Changde, Hunan
+addr_zh: 湖南省常德市
+city: 常德
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Hengyang, Hunan
+addr_zh: 湖南省衡阳市
+city: 衡阳
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Xiangtan, Hunan
+addr_zh: "湖南省湘潭市\t"
+city: 湘潭
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: Jishou, Hunan
+addr_zh: 湖南省湘西土家族苗族自治州
+city: 自治州
+prov: 湖南
+--- !!perl/hash:Add
+addr_en: XiAn, Shaanxi
+addr_zh: "陕西省西安市\t"
+city: 西安
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: YanAn, Shaanxi
+addr_zh: 陕西省延安市
+city: 延安
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Yulin, Shaanxi
+addr_zh: 陕西省榆林市
+city: 榆林
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Shangzhou, Shaanxi
+addr_zh: 陕西省商洛市
+city: 商洛
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Weinan, Shaanxi
+addr_zh: 陕西省渭南市
+city: 渭南
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Ankang, Shaanxi
+addr_zh: 陕西省安康市
+city: 安康
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Hanzhong, Shaanxi
+addr_zh: 陕西省汉中市
+city: 汉中
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Baoji, Shaanxi
+addr_zh: 陕西省宝鸡市
+city: 宝鸡
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Tongchuan, Shaanxi
+addr_zh: 陕西省铜川市
+city: 铜川
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Xianyang, Shaanxi
+addr_zh: "陕西省咸阳市\t"
+city: 咸阳
+prov: 陕西
+--- !!perl/hash:Add
+addr_en: Kunming, Yunnan
+addr_zh: 云南省昆明市
+city: 昆明
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Jinghong, Yunnan
+addr_zh: 云南省西双版纳傣族自治州
+city: 版纳
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Zhongdian, Yunnan
+addr_zh: 云南省迪庆藏族自治州
+city: 迪庆
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Dali, Yunnan
+addr_zh: 云南省大理白族自治州
+city: 大理
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Qujing, Yunnan
+addr_zh: 云南省曲靖市
+city: 曲靖
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Wenshan, Yunnan
+addr_zh: 云南省文山壮族苗族自治州
+city: 文山
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Chuxiong, Yunnan
+addr_zh: 云南省楚雄彝族自治州
+city: 楚雄
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Lijiang, Yunnan
+addr_zh: 云南省丽江市
+city: 丽江
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Lincang, Yunnan
+addr_zh: 云南省临沧市
+city: 临沧
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Zhaotong, Yunnan
+addr_zh: 云南省昭通市
+city: 昭通
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Simao, Yunnan
+addr_zh: 云南省普洱市
+city: 普洱
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Yuxi, Yunnan
+addr_zh: 云南省玉溪市
+city: 玉溪
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Baoshan, Yunnan
+addr_zh: 云南省保山市
+city: 保山
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Gejiu, Yunnan
+addr_zh: 云南省红河哈尼族彝族自治州
+city: 红河
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Liuku, Yunnan
+addr_zh: 云南省怒江傈僳族自治州
+city: 怒江
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Luxi, Yunnan
+addr_zh: 云南省德宏傣族景颇族自治州
+city: 德宏
+prov: 云南
+--- !!perl/hash:Add
+addr_en: Hefei, Anhui
+addr_zh: "安徽省合肥市\t"
+city: 合肥
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Chizhou, Anhui
+addr_zh: 安徽省池州市
+city: 池州
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Bozhou, Anhui
+addr_zh: 安徽省亳州市
+city: 亳州
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Fuyang, Anhui
+addr_zh: 安徽省阜阳市
+city: 阜阳
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Suzhou, Anhui
+addr_zh: 安徽省宿州市
+city: 宿州
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Anqing, Anhui
+addr_zh: 安徽省安庆市
+city: 安庆
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: MaAnshan, Anhui
+addr_zh: 安徽省马鞍山市
+city: 马鞍山
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Huainan, Anhui
+addr_zh: 安徽省淮南市
+city: 淮南
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Wuhu, Anhui
+addr_zh: 安徽省芜湖市
+city: 芜湖
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Bengbu, Anhui
+addr_zh: 安徽省蚌埠市
+city: 蚌埠
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Chuzhou, Anhui
+addr_zh: 安徽省滁州市
+city: 滁州
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Chaohu, Anhui
+addr_zh: "安徽省巢湖市\t"
+city: 巢湖
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: LiuAn, Anhui
+addr_zh: 安徽省六安市
+city: 六安
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Xuancheng, Anhui
+addr_zh: 安徽省宣城市
+city: 宣城
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Tongling, Anhui
+addr_zh: 安徽省铜陵市
+city: 铜陵
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Huaibei, Anhui
+addr_zh: 安徽省淮北市
+city: 淮北
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Huangshan, Anhui
+addr_zh: 安徽省黄山市
+city: 黄山
+prov: 安徽
+--- !!perl/hash:Add
+addr_en: Nanning, Guangxi
+addr_zh: 广西南宁市
+city: 南宁
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Fangchenggang, Guangxi
+addr_zh: 广西防城港市
+city: 防城港
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Hechi, Guangxi
+addr_zh: 广西河池市
+city: 河池
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Qinzhou, Guangxi
+addr_zh: 广西钦州市
+city: 钦州
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Baise, Guangxi
+addr_zh: 广西百色市
+city: 百色
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Yulin, Guangxi
+addr_zh: 广西玉林市
+city: 玉林
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Wuzhou, Guangxi
+addr_zh: 广西梧州市
+city: 梧州
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Guilin, Guangxi
+addr_zh: 广西桂林市
+city: 桂林
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Liuzhou, Guangxi
+addr_zh: 广西柳州市
+city: 柳州
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Hezhou, Guangxi
+addr_zh: 广西贺州市
+city: 贺州
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Beihai, Guangxi
+addr_zh: 广西北海市
+city: 北海
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Guigang, Guangxi
+addr_zh: 广西贵港市
+city: 贵港
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Chongzuo, Guangxi
+addr_zh: 广西崇左市
+city: 崇左
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Laibin, Guangxi
+addr_zh: 广西来宾市
+city: 来宾
+prov: 广西
+--- !!perl/hash:Add
+addr_en: Urumchi, Xinjiang
+addr_zh: 新疆乌鲁木齐市
+city: 乌鲁木齐
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 奎屯
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Shihezi, Xinjiang
+addr_zh: 新疆石河子市
+city: 石河子
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Changji, Xinjiang
+addr_zh: 新疆昌吉回族自治州
+city: 昌吉
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Tulufan, Xinjiang
+addr_zh: 新疆吐鲁番地区
+city: 吐鲁番
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 库尔勒
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Akesu, Xinjiang
+addr_zh: 新疆阿克苏地区
+city: 阿克苏
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Kashi, Xinjiang
+addr_zh: 新疆喀什地区
+city: 喀什
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Kalamayi, Xinjiang
+addr_zh: 新疆克拉玛依市
+city: 克拉玛依
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Tacheng, Xinjiang
+addr_zh: 新疆塔城地区
+city: 塔城
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Yining, Xinjiang
+addr_zh: 新疆伊犁哈萨克自治州
+city: 伊犁
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 克州
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 巴州
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Hami, Xinjiang
+addr_zh: 新疆哈密地区
+city: 哈密
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Hetian, Xinjiang
+addr_zh: 新疆和田地区
+city: 和田
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Aletai, Xinjiang
+addr_zh: 新疆阿勒泰地区
+city: 阿勒泰
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 博乐
+prov: 新疆
+--- !!perl/hash:Add
+addr_en: Chongqing
+addr_zh: 重庆市
+city: 重庆
+prov: 重庆
+--- !!perl/hash:Add
+addr_en: Nanchang, Jiangxi
+addr_zh: 江西省南昌市
+city: 南昌
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Jiujiang, Jiangxi
+addr_zh: 江西省九江市
+city: 九江
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Fuzhou, Jiangxi
+addr_zh: 江西省抚州市
+city: 抚州
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Ganzhou, Jiangxi
+addr_zh: 江西省赣州市
+city: 赣州
+prov: 江西
+--- !!perl/hash:Add
+addr_en: JiAn, Jiangxi
+addr_zh: 江西省吉安市
+city: 吉安
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Yichun, Jiangxi
+addr_zh: 江西省宜春市
+city: 宜春
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Shangrao, Jiangxi
+addr_zh: 江西省上饶市
+city: 上饶
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Jingdezhen, Jiangxi
+addr_zh: 江西省景德镇市
+city: 景德镇
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Yingtan, Jiangxi
+addr_zh: 江西省鹰潭市
+city: 鹰潭
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Xinyu, Jiangxi
+addr_zh: 江西省新余市
+city: 新余
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Pingxiang, Jiangxi
+addr_zh: 江西省萍乡市
+city: 萍乡
+prov: 江西
+--- !!perl/hash:Add
+addr_en: Lanzhou, Gansu
+addr_zh: 甘肃省兰州市
+city: 兰州
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Xifeng, Gansu
+addr_zh: 甘肃省庆阳市
+city: 庆阳
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Wudu, Gansu
+addr_zh: 甘肃省陇南市
+city: 陇南
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Jiuquan, Gansu
+addr_zh: 甘肃省酒泉市
+city: 酒泉
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: 甘肃省金昌市
+city: 金昌
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Jiayuguan, Gansu
+addr_zh: 甘肃省嘉峪关市
+city: 嘉峪关
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Dingxi, Gansu
+addr_zh: 甘肃省定西市
+city: 定西
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Pingliang, Gansu
+addr_zh: 甘肃省平凉市
+city: 平凉
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Jinchang, Gansu
+addr_zh: 甘肃省武威市
+city: 武威
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Zhangye, Gansu
+addr_zh: 甘肃省张掖市
+city: 张掖
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Tianshui, Gansu
+addr_zh: 甘肃省天水市
+city: 天水
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Linxia, Gansu
+addr_zh: 甘肃省临夏回族自治州
+city: 临夏
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Hezuo, Gansu
+addr_zh: 甘肃省甘南藏族自治州
+city: 甘南
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Baiyin, Gansu
+addr_zh: 甘肃省白银市
+city: 白银
+prov: 甘肃
+--- !!perl/hash:Add
+addr_en: Kaili, Guizhou
+addr_zh: 贵州省黔东南苗族侗族自治州
+city: 黔东南
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 兴义
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Liupanshui, Guizhou
+addr_zh: 贵州省六盘水市
+city: 六盘水
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Bijie, Guizhou
+addr_zh: 贵州省毕节地区
+city: 毕节
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Tongren, Guizhou
+addr_zh: 贵州省铜仁地区
+city: 铜仁
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 凯里
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 都匀
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Anshun, Guizhou
+addr_zh: "贵州省安顺市\t"
+city: 安顺
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Zunyi, Guizhou
+addr_zh: "贵州省遵义市\t"
+city: 遵义
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Guiyang, Guizhou
+addr_zh: "贵州省贵阳市\t"
+city: 贵阳
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Duyun, Guizhou
+addr_zh: 贵州省黔南布依族苗族自治州
+city: 黔南
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Xingyi, Guizhou
+addr_zh: 贵州省黔西南布依族苗族自治州
+city: 黔西南
+prov: 贵州
+--- !!perl/hash:Add
+addr_en: Haikou, Hainan
+addr_zh: 海南省海口市
+city: 海口
+prov: 海南
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 三亚
+prov: 海南
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 儋州
+prov: 海南
+--- !!perl/hash:Add
+addr_en: Yinchuan, Ningxia
+addr_zh: 宁夏银川市
+city: 银川
+prov: 宁夏
+--- !!perl/hash:Add
+addr_en: Shizuishan, Ningxia
+addr_zh: 宁夏石嘴山市
+city: 石嘴山
+prov: 宁夏
+--- !!perl/hash:Add
+addr_en: Wuzhong, Ningxia
+addr_zh: 宁夏吴忠市
+city: 吴忠
+prov: 宁夏
+--- !!perl/hash:Add
+addr_en: Guyuan, Ningxia
+addr_zh: 宁夏固原市
+city: 固原
+prov: 宁夏
+--- !!perl/hash:Add
+addr_en: Zhongwei, Ningxia
+addr_zh: 宁夏中卫市
+city: 中卫
+prov: 宁夏
+--- !!perl/hash:Add
+addr_en: Xining, Qinghai
+addr_zh: 青海省西宁市
+city: 西宁
+prov: 青海
+--- !!perl/hash:Add
+addr_en: PingAn, Qinghai
+addr_zh: 青海省海东地区
+city: 海东
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Tongren, Qinghai
+addr_zh: 青海省黄南藏族自治州
+city: 黄南
+prov: 青海
+--- !!perl/hash:Add
+addr_en: GeErmu, Qinghai
+addr_zh: 青海省海西蒙古族藏族自治州
+city: 海西
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Gonghe, Qinghai
+addr_zh: 青海省海南藏族自治州
+city: 海南
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Haiyan, Qinghai
+addr_zh: 青海省海北藏族自治州
+city: 海北
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Maqin, Qinghai
+addr_zh: 青海省果洛藏族自治州
+city: 果洛
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Yushu, Qinghai
+addr_zh: 青海省玉树藏族自治州
+city: 玉树
+prov: 青海
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 格尔木
+prov: 青海
+--- !!perl/hash:Add
+addr_en: Ngari, Tibet
+addr_zh: "西藏阿里地区\t"
+city: 阿里
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Nagqu, Tibet
+addr_zh: "西藏那曲地区\t"
+city: 那曲
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Changdu, Tibet
+addr_zh: 西藏昌都地区
+city: 昌都
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Linzhi, Tibet
+addr_zh: 西藏林芝地区
+city: 林芝
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Naidong, Tibet
+addr_zh: 西藏山南地区
+city: 山南
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Xigaze, Tibet
+addr_zh: "西藏日喀则地区\t"
+city: 日喀则
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Lhasa, Tibet
+addr_zh: 西藏拉萨市
+city: 拉萨
+prov: 西藏
+--- !!perl/hash:Add
+addr_en: Beijing
+addr_zh: 北京市
+city: 北京
+prov: 北京
+--- !!perl/hash:Add
+addr_en: Tianjin
+addr_zh: 天津市
+city: 天津
+prov: 天津
+--- !!perl/hash:Add
+addr_en: Jinan, Shandong
+addr_zh: 山东省济南市
+city: 济南
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Qingdao, Shandong
+addr_zh: 山东省青岛市
+city: 青岛
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Zibo, Shandong
+addr_zh: 山东省淄博市
+city: 淄博
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Yantai, Shandong
+addr_zh: 山东省烟台市
+city: 烟台
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Jining, Shandong
+addr_zh: 山东省济宁市
+city: 济宁
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Linyi, Shandong
+addr_zh: 山东省临沂市
+city: 临沂
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Dongying, Shandong
+addr_zh: 山东省东营市
+city: 东营
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Zaozhuang, Shandong
+addr_zh: 山东省枣庄市
+city: 枣庄
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Liaocheng, Shandong
+addr_zh: 山东省聊城市
+city: 聊城
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Laiwu, Shandong
+addr_zh: 山东省莱芜市
+city: 莱芜
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Rizhao, Shandong
+addr_zh: 山东省日照市
+city: 日照
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Weihai, Shandong
+addr_zh: 山东省威海市
+city: 威海
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Binzhou, Shandong
+addr_zh: 山东省滨州市
+city: 滨州
+prov: 山东
+--- !!perl/hash:Add
+addr_en: TaiAn, Shandong
+addr_zh: 山东省泰安市
+city: 泰安
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Weifang, Shandong
+addr_zh: 山东省潍坊市
+city: 潍坊
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Dezhou, Shandong
+addr_zh: 山东省德州市
+city: 德州
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Heze, Shandong
+addr_zh: 山东省菏泽市
+city: 菏泽
+prov: 山东
+--- !!perl/hash:Add
+addr_en: Zhengzhou, Henan
+addr_zh: 河南省郑州市
+city: 郑州
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Xinxiang, Henan
+addr_zh: 河南省新乡市
+city: 新乡
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Pingdingshan, Henan
+addr_zh: 河南省平顶山市
+city: 平顶山
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Nanyang, Henan
+addr_zh: 河南省南阳市
+city: 南阳
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Luoyang, Henan
+addr_zh: 河南省洛阳市
+city: 洛阳
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Jiaozuo, Henan
+addr_zh: 河南省焦作市
+city: 焦作
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Puyang, Henan
+addr_zh: 河南省濮阳市
+city: 濮阳
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Sanmenxia, Henan
+addr_zh: 河南省三门峡市
+city: 三门峡
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Zhumadian, Henan
+addr_zh: 河南省驻马店市
+city: 驻马店
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Luohe, Henan
+addr_zh: 河南省漯河市
+city: 漯河
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Zhoukou, Henan
+addr_zh: 河南省周口市
+city: 周口
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Hebi, Henan
+addr_zh: 河南省鹤壁市
+city: 鹤壁
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Shangqiu, Henan
+addr_zh: 河南省商丘市
+city: 商丘
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Kaifeng, Henan
+addr_zh: 河南省开封市
+city: 开封
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Xinyang, Henan
+addr_zh: 河南省信阳市
+city: 信阳
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Xuchang, Henan
+addr_zh: 河南省许昌市
+city: 许昌
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Anyang, Henan
+addr_zh: 河南省安阳市
+city: 安阳
+prov: 河南
+--- !!perl/hash:Add
+addr_en: Shenyang, Liaoning
+addr_zh: "辽宁省沈阳市\t"
+city: 沈阳
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Tieling, Liaoning
+addr_zh: "辽宁省铁岭市\t"
+city: 铁岭
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Anshan, Liaoning
+addr_zh: 辽宁省鞍山市
+city: 鞍山
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Benxi, Liaoning
+addr_zh: 辽宁省本溪市
+city: 本溪
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Jinzhou, Liaoning
+addr_zh: 辽宁省锦州市
+city: 锦州
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Fuxin, Liaoning
+addr_zh: 辽宁省阜新市
+city: 阜新
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Chaoyang, Liaoning
+addr_zh: 辽宁省朝阳市
+city: 朝阳
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Huludao, Liaoning
+addr_zh: 辽宁省葫芦岛市
+city: 葫芦岛
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Panjin, Liaoning
+addr_zh: 辽宁省盘锦市
+city: 盘锦
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Liaoyang, Liaoning
+addr_zh: 辽宁省辽阳市
+city: 辽阳
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Yingkou, Liaoning
+addr_zh: 辽宁省营口市
+city: 营口
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Dandong, Liaoning
+addr_zh: 辽宁省丹东市
+city: 丹东
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Fushun, Liaoning
+addr_zh: "辽宁省抚顺市\t"
+city: 抚顺
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Dalian, Liaoning
+addr_zh: 辽宁省大连市
+city: 大连
+prov: 辽宁
+--- !!perl/hash:Add
+addr_en: Handan, Hebei
+addr_zh: 河北省邯郸市
+city: 邯郸
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Baoding, Hebei
+addr_zh: 河北省保定市
+city: 保定
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Zhangjiakou, Hebei
+addr_zh: 河北省张家口市
+city: 张家口
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Chengde, Hebei
+addr_zh: 河北省承德市
+city: 承德
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Tangshan, Hebei
+addr_zh: 河北省唐山市
+city: 唐山
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Langfang, Hebei
+addr_zh: 河北省廊坊市
+city: 廊坊
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Cangzhou, Hebei
+addr_zh: 河北省沧州市
+city: 沧州
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Hengshui, Hebei
+addr_zh: 河北省衡水市
+city: 衡水
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Xingtai, Hebei
+addr_zh: 河北省邢台市
+city: 邢台
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Qinhuangdao, Hebei
+addr_zh: 河北省秦皇岛市
+city: 秦皇岛
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Shijiazhuang, Hebei
+addr_zh: 河北省石家庄市
+city: 石家庄
+prov: 河北
+--- !!perl/hash:Add
+addr_en: Taiyuan, Shanxi
+addr_zh: 山西省太原市
+city: 太原
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Shuozhou, Shanxi
+addr_zh: 山西省朔州市
+city: 朔州
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Xinzhou, Shanxi
+addr_zh: 山西省忻州市
+city: 忻州
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Datong, Shanxi
+addr_zh: 山西省大同市
+city: 大同
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Yangquan, Shanxi
+addr_zh: 山西省阳泉市
+city: 阳泉
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Changzhi, Shanxi
+addr_zh: 山西省长治市
+city: 长治
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Jincheng, Shanxi
+addr_zh: 山西省晋城市
+city: 晋城
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Linfen, Shanxi
+addr_zh: 山西省临汾市
+city: 临汾
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Yuncheng, Shanxi
+addr_zh: 山西省运城市
+city: 运城
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Yuci, Shanxi
+addr_zh: 山西省晋中市
+city: 晋中
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Lishi, Shanxi
+addr_zh: 山西省吕梁市
+city: 吕梁
+prov: 山西
+--- !!perl/hash:Add
+addr_en: Huhehaote, Inner Mongolia
+addr_zh: 内蒙古呼和浩特市
+city: 呼和浩特
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Tongliao, Inner Mongolia
+addr_zh: 内蒙古通辽市
+city: 通辽
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Dongsheng, Inner Mongolia
+addr_zh: 内蒙古鄂尔多斯市
+city: 鄂尔多斯
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: ~
+addr_zh: ~
+city: 阿盟
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Wulanhaote, Inner Mongolia
+addr_zh: 内蒙古兴安盟
+city: 兴安盟
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Xilinhaote, Inner Mongolia
+addr_zh: 内蒙古锡林郭勒盟
+city: 锡林郭勒
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Linhe, Inner Mongolia
+addr_zh: 内蒙古巴彦淖尔市
+city: 巴彦淖尔
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Chifeng, Inner Mongolia
+addr_zh: 内蒙古赤峰市
+city: 赤峰
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Jining, Inner Mongolia
+addr_zh: 内蒙古乌兰察布市
+city: 乌兰察布
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Hailaer, Inner Mongolia
+addr_zh: 内蒙古呼伦贝尔市
+city: 呼伦贝尔
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Baotou, Inner Mongolia
+addr_zh: 内蒙古包头市
+city: 包头
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Wuhai, Inner Mongolia
+addr_zh: 内蒙古乌海市
+city: 乌海
+prov: 内蒙古
+--- !!perl/hash:Add
+addr_en: Changchun, Jilin
+addr_zh: 吉林省长春市
+city: 长春
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Jilin, Jilin
+addr_zh: 吉林省吉林市
+city: 吉林
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Yanbian, Jilin
+addr_zh: "吉林省延边朝鲜族自治州\t"
+city: 延边
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Siping, Jilin
+addr_zh: 吉林省四平市
+city: 四平
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Tonghua, Jilin
+addr_zh: "吉林省通化市\t"
+city: 通化
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Baicheng, Jilin
+addr_zh: 吉林省白城市
+city: 白城
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Liaoyuan, Jilin
+addr_zh: 吉林省辽源市
+city: 辽源
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Songyuan, Jilin
+addr_zh: 吉林省松原市
+city: 松原
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Baishan, Jilin
+addr_zh: 吉林省白山市
+city: 白山
+prov: 吉林
+--- !!perl/hash:Add
+addr_en: Harbin, Heilongjiang
+addr_zh: 黑龙江省哈尔滨市
+city: 哈尔滨
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Qiqihar, Heilongjiang
+addr_zh: 黑龙江省齐齐哈尔市
+city: 齐齐哈尔
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Mudanjiang, Heilongjiang
+addr_zh: 黑龙江省牡丹江市
+city: 牡丹江
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Jiamusi, Heilongjiang
+addr_zh: 黑龙江省佳木斯市
+city: 佳木斯
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Suihua, Heilongjiang
+addr_zh: 黑龙江省绥化市
+city: 绥化
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Heihe, Heilongjiang
+addr_zh: 黑龙江省黑河市
+city: 黑河
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Jiagedaqi, Heilongjiang
+addr_zh: 黑龙江省大兴安岭地区
+city: 大兴安岭
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Yichun, Heilongjiang
+addr_zh: 黑龙江省伊春市
+city: 伊春
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Daqing, Heilongjiang
+addr_zh: 黑龙江省大庆市
+city: 大庆
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Qitaihe, Heilongjiang
+addr_zh: 黑龙江省七台河市
+city: 七台河
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Jixi, Heilongjiang
+addr_zh: 黑龙江省鸡西市
+city: 鸡西
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Hegang, Heilongjiang
+addr_zh: 黑龙江省鹤岗市
+city: 鹤岗
+prov: 黑龙江
+--- !!perl/hash:Add
+addr_en: Shuangyashan, Heilongjiang
+addr_zh: 黑龙江省双鸭山市
+city: 双鸭山
+prov: 黑龙江
