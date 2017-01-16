@@ -11,7 +11,7 @@ use 5.010;
 
 
 my ($notExecuted, $fail) = (0, 0);
-my $head = qr/^(\s*<Summary.*? failed=")(\d+)(?{$notExecuted = $^N})(" notExecuted=")(\d+)(?{$notExecuted += $^N})"/;
+my $head = qr/^(\s*<Summary failed=")(\d+)(?{$notExecuted = $^N})(" notExecuted=")(\d+)(?{$notExecuted += $^N})"/;
 
 # undef $/;
 $^I = ".bak";
@@ -19,7 +19,6 @@ $^I = ".bak";
 unless (@ARGV) {
   @ARGV = -f "testResult.xml" ? "testResult.xml"
     : -f "xtsTestResult.xml" ? "xtsTestResult.xml"
-    : -f "test_result.xml" ? "test_result.xml"
     : ();
   say $ARGV[0];
   die "no such files, please check!!!" unless @ARGV;
@@ -50,11 +49,11 @@ while(<>) {
     if(!$tag){
         $tag = 1 if s{$head}{$1$fail$3$notExecuted"}m;
     } else {
-        if (/<Fail(?:edScene|ure)/) {
+        if (/<FailedScene/) {
             $del = 1;
             next ;
         }
-        if (/<\/Fail(?:edScene|ure)>/) {
+        if (/<\/FailedScene>/) {
             $del = 0 ;
             next;
         }
