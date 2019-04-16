@@ -11,7 +11,7 @@ fi
 
 for i in ` find $PATCH_DIR -type f -name "*.patch" | sort `; do
     TEMP_DIR=$i
-    TEMP_DIR=`echo $TEMP_DIR | sed "s|$PATCH_DIR\(.*/\)[^/]*.patch$|\1|"`
+    TEMP_DIR=`echo $TEMP_DIR | sed "s|$PATCH_DIR/*\(.*/\)[^/]*.patch$|\1|"`
     if [[ $OPERATOR = "c" ]]; then
         echo "git apply --check --directory=$TEMP_DIR $i"
         git apply --check --directory=$TEMP_DIR $i
